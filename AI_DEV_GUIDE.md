@@ -20,15 +20,14 @@ This is the most important section. Use these documents to understand our goals,
 
 ## 3. Core Architectural Principles
 
-- **Modularity:** Code should be organized into self-contained, reusable modules.
+- **Modularity:** Code is organized into separate HTML, CSS, and JavaScript files. We use ES6 Modules for JavaScript logic where appropriate.
 - **Testability:** All new business logic must be accompanied by unit tests. We use [Jest/Vitest] for testing.
-- **State Management:** [e.g., We use Redux Toolkit for global state and React Query for server state.]
+- **State Management:** For the current project, state is managed directly in the DOM or through simple JavaScript objects. Avoid global state where possible.
 - **Directory Structure:**
-  - `/src/components`: Reusable React components.
-  - `/src/pages`: Top-level page components.
-  - `/src/hooks`: Custom React hooks.
-  - `/src/utils`: Utility functions.
-  - `/server/routes`: API route definitions.
+  - `index.html`: The main HTML document.
+  - `style.css`: All global and component styles.
+  - `main.js`: The main entry point for all client-side JavaScript.
+  - `/assets`: For images, fonts, and other static files.
 
 ## 4. How to Help
 

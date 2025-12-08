@@ -16,7 +16,7 @@ This document outlines the high-level goals and planned features for our project
   - [x] Separate CSS from `index.html` into external `*.css` files.
   - [x] Separate JavaScript from `index.html` into an external `main.js` file.
   - [x] Remove all inline `style` attributes and manage styles globally.
-  - [ ] Refactor CSS variables and styles to fully align with `DESIGN_GUIDE.md`.
+  - [x] Refactor CSS variables and styles to fully align with `DESIGN_GUIDE.md`.
   - [ ] Replace all emoji icons with SVG icons from the Feather Icons library.
   - [ ] Investigate and implement a simple build tool (e.g., Vite) for development and bundling.
 

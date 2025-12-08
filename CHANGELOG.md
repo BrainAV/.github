@@ -21,6 +21,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.2.0] - 2025-12-07
+
+### Changed
+- **Codebase Modernization:** Refactored the monolithic `index.html` by separating all CSS into `style.css` and all JavaScript into `main.js`.
+- **Style Centralization:** Removed all inline `style` attributes and replaced them with semantic and utility CSS classes.
+- **Design System Alignment:** Updated the entire site's color palette to use the variables defined in `DESIGN_GUIDE.md`.
+
+### Fixed
+- **CSS Bug:** Corrected an issue where the main `h1` heading was invisible due to an incorrect CSS variable.
+- **Responsive Layout:** Resolved mobile layout issues where content was overflowing or had excessive padding, particularly in the main container and contact form sections.
+
+---
+
 ## [0.1.0] - 2025-12-07
 
 ### Added

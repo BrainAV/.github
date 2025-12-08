@@ -4,39 +4,50 @@ This document outlines the high-level goals and planned features for our project
 
 ## 🎯 Guiding Principles
 
-- **Principle 1:** A brief statement about a core value (e.g., "Focus on User Experience").
-- **Principle 2:** Another core value (e.g., "Prioritize Performance and Scalability").
-- **Principle 3:** Another core value (e.g., "Maintain Code Quality and Testability").
+- **Deliver Exceptional Client & User Experiences:** Whether it's a live event or a web application, the experience must be seamless, professional, and memorable.
+- **Fuse Creativity with Cutting-Edge Technology:** Actively seek opportunities to blend our entertainment expertise with innovative tech, especially AI, to create unique solutions.
+- **Showcase Our Expertise:** Our public-facing projects should serve as high-quality, interactive portfolios that demonstrate the full range of our capabilities.
 
 ---
 
-## 🚀 Q3 2024: [Theme for the Quarter, e.g., "Foundation & Core Features"]
+##  foundational Improvements: "Codebase Modernization"
 
-- [ ] **Epic: User Authentication**
-  - [ ] Implement email/password signup and login.
-  - [ ] Add OAuth 2.0 support for Google.
-  - [ ] Build password reset functionality.
-- [ ] **Epic: Core Dashboard**
-  - [ ] Design the main dashboard layout.
-  - [ ] Implement key data visualization widgets.
+- [ ] **Epic: Codebase Refactoring**
+  - [x] Separate CSS from `index.html` into external `*.css` files.
+  - [x] Separate JavaScript from `index.html` into an external `main.js` file.
+  - [x] Remove all inline `style` attributes and manage styles globally.
+  - [ ] Refactor CSS variables and styles to fully align with `DESIGN_GUIDE.md`.
+  - [ ] Replace all emoji icons with SVG icons from the Feather Icons library.
+  - [ ] Investigate and implement a simple build tool (e.g., Vite) for development and bundling.
 
-## 🚂 Q4 2024: [Theme for the Quarter, e.g., "Collaboration & Expansion"]
+## 🚀 Q1 2026: "Digital Presence & Service Showcase"
 
-- [ ] **Epic: Team Collaboration**
-  - [ ] Implement user invitations to a workspace.
-  - [ ] Add role-based access control (Admin, Editor, Viewer).
-- [ ] **Epic: API Integration**
-  - [ ] Develop a public REST API for primary resources.
-  - [ ] Write comprehensive API documentation.
+- [ ] **Epic: Interactive DJ Service Booker**
+  - [ ] Develop a client-facing form to capture event details (date, type, location).
+  - [ ] Build a backend service to check availability and generate initial quotes.
+  - [ ] Design a "My Event" dashboard for booked clients.
+- [ ] **Epic: Multimedia Portfolio Gallery**
+  - [ ] Create a filterable gallery for video and music production projects.
+  - [ ] Implement a performant, responsive media player for audio and video.
+
+## 🚂 Q2 2026: "AI-Powered Creative Tools"
+
+- [ ] **Epic: AI Music Playlist Generator**
+  - [ ] Design a simple UI for users to input event type, genres, and mood.
+  - [ ] Integrate with a language model (LLM) to generate themed playlist suggestions.
+  - [ ] Allow users to export or share the generated playlist.
+- [ ] **Epic: Video Production Quote Calculator**
+  - [ ] Create a multi-step form for video project requirements (e.g., length, style, effects).
+  - [ ] Develop a pricing logic engine to provide an estimated cost.
 
 ## 💡 Later / Future Ideas
 
 This is a backlog of ideas that are not yet scheduled.
 
-- [ ] Mobile application development.
-- [ ] Advanced reporting and analytics.
-- [ ] Machine learning-based recommendations.
-- [ ] Integration with third-party service X.
+- [ ] A client portal for managing all booked services and project assets.
+- [ ] Generative AI tool for creating event-specific visualizers or logos.
+- [ ] A blog/content platform for articles on DJing, music production, and creative tech.
+- [ ] Full e-commerce for digital products (e.g., music packs, video templates).
 
 ---
 

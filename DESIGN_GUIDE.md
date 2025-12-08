@@ -10,18 +10,28 @@ This guide is the single source of truth for the visual and interaction design o
 
 ## 2. Color Palette
 
+Our palette is designed to be modern, accessible, and energetic, reflecting our brand's blend of technology and creativity.
+
 ### Primary Colors
-- `primary-blue`: `#007BFF` - Used for primary actions, links, and active states.
-- `primary-dark`: `#002B55` - Used for text and dark backgrounds.
+- `primary-brand`: `#7E57C2` (Deep Purple) - Used for primary actions, links, and active states. Evokes creativity and technology.
+- `primary-accent`: `#FFAB40` (Amber) - Used for highlights, calls-to-action, and special features.
 
 ### Secondary Colors
-- `secondary-gray`: `#6C757D` - Used for secondary text and borders.
-- `background-light`: `#F8F9FA` - Used for page backgrounds.
+- `neutral-dark`: `#121212` - Used for primary text in light mode and main backgrounds in dark mode.
+- `neutral-medium`: `#616161` - Used for secondary text, borders, and disabled states.
+- `neutral-light`: `#F5F5F5` - Used for page backgrounds in light mode.
+- `neutral-white`: `#FFFFFF` - Used for text on dark backgrounds and card backgrounds in light mode.
 
 ### System Colors
 - `success`: `#28A745`
 - `warning`: `#FFC107`
 - `error`: `#DC3545`
+
+### Dark Theme Palette
+- `background-dark`: `neutral-dark` (`#121212`)
+- `surface-dark`: `#1E1E1E` (Slightly lighter than background for cards/modals)
+- `text-primary-dark`: `neutral-light` (`#F5F5F5`)
+- `text-secondary-dark`: `neutral-medium` (`#616161`)
 
 ## 3. Typography
 
@@ -39,9 +49,20 @@ We use an 8-point grid system. All spacing (margins, padding) should be a multip
 - `space-2`: 16px
 - `space-3`: 24px
 
-## 5. Component Library
+## 5. Iconography
+
+We use the **Feather Icons** library for its clean, modern, and lightweight design.
+- **Library:** Feather Icons
+- **Usage:** Use icons at a standard size of 24px. Ensure icons have sufficient contrast and a clear purpose.
+
+## 6. Animation & Motion
+
+- **Principle:** Motion should be purposeful, providing feedback or guiding the user's attention without being distracting.
+- **Timing:** Use fast durations (150ms - 300ms) for most UI transitions.
+- **Easing:** Default to `ease-in-out` for smooth acceleration and deceleration.
+
+## 7. Component Library
 
 Our components are documented in Storybook. Please refer to it for usage examples and available props.
 - **Link:** https://storybook.your-project.com
 - **Key Components:** Button, Input, Modal, Card, Table.
-

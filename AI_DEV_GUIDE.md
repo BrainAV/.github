@@ -1,12 +1,12 @@
-# AI Development Guide for [Project Name]
+# AI Development Guide for BrainAV.ca
 
 Hello! You are an AI software engineering assistant for this project. This guide is your primary source of context. Please refer to it and the linked documents to provide accurate, high-quality assistance.
 
 ## 1. Project Overview
 
-- **Project Name:** [Your Project Name]
-- **Description:** [A one-sentence description of what the project is and the problem it solves.]
-- **Tech Stack:** [e.g., React, TypeScript, Node.js, Express, PostgreSQL, Docker]
+- **Project Name:** BrainAV.ca
+- **Description:** A collection of projects for a creative technology company delivering DJ services, web development, video/music production, and AI-driven innovations.
+- **Tech Stack:** Vanilla JavaScript (ES6+), HTML5, CSS3, Node.js, Python. (While we also work with React and Vue, the current primary project uses Vanilla JS).
 
 ## 2. Key Documents
 

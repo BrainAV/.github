@@ -21,15 +21,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [1.0.0] - 2024-08-15
+## [0.1.0] - 2025-12-07
 
 ### Added
-- Initial release of the application.
-- User authentication with email/password and Google OAuth.
-- Core dashboard with data visualization widgets.
-
-### Changed
-- Optimized database queries for the main dashboard, improving load times by 20%.
-
-### Fixed
-- Resolved an issue where the password reset token would expire prematurely.
+- Initialized project structure and documentation for BrainAV.ca.
+- Created `roadmap.md` to outline future development goals.
+- Created `CHANGELOG.md` to track project progress.
+- Created `DESIGN_GUIDE.md` for UI/UX consistency.
+- Created `AI_DEV_GUIDE.md` to provide context for AI-assisted development.

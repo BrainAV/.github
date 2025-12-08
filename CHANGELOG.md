@@ -27,6 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Codebase Modernization:** Refactored the monolithic `index.html` by separating all CSS into `style.css` and all JavaScript into `main.js`.
 - **Style Centralization:** Removed all inline `style` attributes and replaced them with semantic and utility CSS classes.
 - **Design System Alignment:** Updated the entire site's color palette to use the variables defined in `DESIGN_GUIDE.md`.
+- **Business Strategy:** Removed all specific pricing from the website to encourage users to make contact for custom quotes.
 
 ### Fixed
 - **CSS Bug:** Corrected an issue where the main `h1` heading was invisible due to an incorrect CSS variable.

@@ -1,57 +1,33 @@
-# BrainAV.ca - Professional DJ Services & Creative Technology
+# BrainAV: AI Creative Ecosystem
 
-Welcome to the official GitHub organization for **BrainAV.ca**, where professional entertainment meets cutting-edge technology. With **25+ years of experience**, we deliver exceptional DJ services alongside comprehensive creative and technical solutions including **web development, video production, music production, and AI-driven innovations**.
+**BrainAV** is a creative technology lab building intelligent tools for the future of music.
 
-## About BrainAV.ca
+## 🌌 The Ecosystem
 
-BrainAV.ca is your premier destination for both professional entertainment and digital innovation. Whether you need a dynamic DJ for your next event or custom tech solutions to bring your creative vision to life, we combine entertainment expertise with modern technology, web development, multimedia production, and AI integration.
+We are developing a suite of distinct AI agents that cover the full spectrum of music:
 
-### What We Do
-- **Professional DJ & MC Services**: Live entertainment for weddings, corporate events, and special occasions across Central Ontario
-- **Web Development**: Modern, responsive web applications built with current best practices and frameworks
-- **Video Production**: Professional-grade video creation, editing, and post-production
-- **Music Production**: High-quality audio production, mixing, and creative sound design
-- **Creative Services**: Comprehensive multimedia solutions combining design, code, and entertainment
-- **AI Integration**: Leveraging machine learning and AI models to enhance applications and creative workflows
+### 1. The DJ Brain (Performance)
+**"The AI that plays music."**
+An intelligent DJ application designed to mix, curate, and perform. It handles the **playback** side of the equation—reading crowds, mixing tracks, and managing energy levels.
 
-## Technical Focus Areas
+### 2. AI Co-Producer (Creation)
+**"The AI that makes music."**
+An executive producer for your DAW (starting with Ableton Live). It handles the **creation** side—generating MIDI, designing sounds, and arranging tracks via OSC (Open Sound Control).
 
-- **Frontend Development**: React, Vue, modern JavaScript/TypeScript, responsive design
-- **Backend Development**: Node.js, Python, databases, APIs, cloud architecture
-- **Video Production**: Filming, editing, color grading, visual effects, and post-production
-- **Music & Audio Production**: Mixing, mastering, sound design, and music composition
-- **AI & Machine Learning**: Model integration, NLP, generative AI applications
-- **DevOps & Infrastructure**: Deployment pipelines, containerization, cloud services
-- **Full-Stack Applications**: End-to-end development from concept to production
+### 3. Visuals (Add-on)
+**"The AI that sees music."**
+Future modules for AI-driven visual synthesis and live performance synchronization.
 
-## Our Projects
+## 🛠 Technical Focus
 
-This organization hosts a collection of projects showcasing our capabilities in web development, creative coding, multimedia solutions, and AI-enhanced applications. Check out our repositories to see what we're building.
+- **Languages:** Python (AI/Backend), Node.js, C++.
+- **Protocols:** OSC (Open Sound Control), MIDI.
+- **Hardware:** Raspberry Pi, NVIDIA Jetson.
 
-## Services & Collaboration
+## 🔗 Links
 
-We're available for:
-- **DJ & Entertainment Services**: Professional DJing, MC services, karaoke, special effects, and lighting for weddings, corporate events, and special occasions
-- **Custom Web Application Development**: Tailored solutions for your business or creative needs
-- **Video Production Services**: Concept to final delivery for commercials, content, and multimedia projects
-- **Music Production & Audio Services**: Original composition, mixing, mastering, and sound design
-- **Creative Technology Solutions**: Integrating AI, web tech, and multimedia for unique experiences
-- **Technical Consulting**: Strategy and architecture planning for digital and creative projects
-
-## Get In Touch
-
-Interested in working together or learning more about our capabilities?
-
-- **Phone**: [(705) 213-3456](tel:+1-705-213-3456)
-- **Website**: [BrainAV.ca](https://brainav.ca)
-- **Response Time**: Within 1 business day
-
-## License
-
-© 2025 BrainAV.ca | All Rights Reserved
-
-This organization maintains open-source projects and portfolio work. For commercial inquiries, partnerships, or custom development, please reach out through our contact channels.
+- **Main Website:** [BrainAV.ca](https://brainav.ca)
+- **Blog:** [JasonBrain.com/blog](https://jasonbrain.com/blog)
 
 ---
-
-**BrainAV.ca - Professional Entertainment & Creative Technology Innovation**
+© 2025 BrainAV

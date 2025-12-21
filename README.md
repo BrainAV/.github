@@ -1,57 +1,49 @@
-# BrainAV.ca - Professional DJ Services & Creative Technology
+# BrainAV - AI Products & Tech Lab
 
-Welcome to the official GitHub organization for **BrainAV.ca**, where professional entertainment meets cutting-edge technology. With **25+ years of experience**, we deliver exceptional DJ services alongside comprehensive creative and technical solutions including **web development, video production, music production, and AI-driven innovations**.
+Welcome to **BrainAV**, a creative technology lab dedicated to building the next generation of AI music tools and AV solutions.
 
-## About BrainAV.ca
+> **📢 NOTICE:** BrainAV has pivoted!
+>
+> We have transitioned from a DJ service provider to a dedicated **AI Product Lab**.
+>
+> 🎧 **Looking for DJ Services?**
+> For professional DJ services, weddings, and event entertainment, please visit **[JasonBrain.com](https://jasonbrain.com)**.
 
-BrainAV.ca is your premier destination for both professional entertainment and digital innovation. Whether you need a dynamic DJ for your next event or custom tech solutions to bring your creative vision to life, we combine entertainment expertise with modern technology, web development, multimedia production, and AI integration.
+## 🧠 The Mission
 
-### What We Do
-- **Professional DJ & MC Services**: Live entertainment for weddings, corporate events, and special occasions across Central Ontario
-- **Web Development**: Modern, responsive web applications built with current best practices and frameworks
-- **Video Production**: Professional-grade video creation, editing, and post-production
-- **Music Production**: High-quality audio production, mixing, and creative sound design
-- **Creative Services**: Comprehensive multimedia solutions combining design, code, and entertainment
-- **AI Integration**: Leveraging machine learning and AI models to enhance applications and creative workflows
+We are building **BrainAV**, an ecosystem of intelligent tools that act as collaborative partners for musicians, producers, and visual artists. Our focus is on bridging the gap between Large Language Models (LLMs) and professional creative software.
 
-## Technical Focus Areas
+## 🚀 Key Projects
 
-- **Frontend Development**: React, Vue, modern JavaScript/TypeScript, responsive design
-- **Backend Development**: Node.js, Python, databases, APIs, cloud architecture
-- **Video Production**: Filming, editing, color grading, visual effects, and post-production
-- **Music & Audio Production**: Mixing, mastering, sound design, and music composition
-- **AI & Machine Learning**: Model integration, NLP, generative AI applications
-- **DevOps & Infrastructure**: Deployment pipelines, containerization, cloud services
-- **Full-Stack Applications**: End-to-end development from concept to production
+### AI Co-Producer
+**Your AI Executive Producer for Ableton Live.**
+A multi-platform assistant that allows you to conduct a song from initial spark to final arrangement using natural language.
+- **Generative Composition**: Text-to-MIDI for melodies and drums.
+- **Sound Design**: AI-guided synth programming.
+- **Cross-Platform**: Windows, macOS, Linux, Raspberry Pi.
 
-## Our Projects
+### The DJ Brain
+**The AI DJ App (Playing Music).**
+An intelligent performance agent designed to mix, curate, and play existing music.
+- **Focus**: Playback, Mixing, Crowd Reading, Library Management.
 
-This organization hosts a collection of projects showcasing our capabilities in web development, creative coding, multimedia solutions, and AI-enhanced applications. Check out our repositories to see what we're building.
+### AV Tools (Coming Soon)
+Utilities for audio-visual synchronization and live performance tech.
 
-## Services & Collaboration
+## 🛠 Tech Stack
 
-We're available for:
-- **DJ & Entertainment Services**: Professional DJing, MC services, karaoke, special effects, and lighting for weddings, corporate events, and special occasions
-- **Custom Web Application Development**: Tailored solutions for your business or creative needs
-- **Video Production Services**: Concept to final delivery for commercials, content, and multimedia projects
-- **Music Production & Audio Services**: Original composition, mixing, mastering, and sound design
-- **Creative Technology Solutions**: Integrating AI, web tech, and multimedia for unique experiences
-- **Technical Consulting**: Strategy and architecture planning for digital and creative projects
+- **AI/ML**: Python, PyTorch, TensorFlow, Ollama, Gemini API
+- **Integration**: Open Sound Control (OSC), Ableton Live API, VST3
+- **Hardware**: Raspberry Pi, NVIDIA Jetson
+- **Web**: Modern JavaScript, React/Vue (for dashboards)
 
-## Get In Touch
+## 🔗 Resources
 
-Interested in working together or learning more about our capabilities?
-
-- **Phone**: [(705) 213-3456](tel:+1-705-213-3456)
-- **Website**: [BrainAV.ca](https://brainav.ca)
-- **Response Time**: Within 1 business day
+- **Tech & Music Blog**: [JasonBrain.com/blog](https://jasonbrain.com/blog)
+- **Organization Website**: [BrainAV.ca](https://brainav.ca)
 
 ## License
 
-© 2025 BrainAV.ca | All Rights Reserved
+© 2025 BrainAV | MIT License
 
-This organization maintains open-source projects and portfolio work. For commercial inquiries, partnerships, or custom development, please reach out through our contact channels.
-
----
-
-**BrainAV.ca - Professional Entertainment & Creative Technology Innovation**
+This organization maintains open-source projects. For commercial partnerships regarding our AI technology, please reach out.

@@ -4,9 +4,9 @@ Hello! You are an AI software engineering assistant for this project. This guide
 
 ## 1. Project Overview
 
-- **Project Name:** BrainAV.ca
-- **Description:** A collection of projects for a creative technology company delivering DJ services, web development, video/music production, and AI-driven innovations.
-- **Tech Stack:** Vanilla JavaScript (ES6+), HTML5, CSS3, Node.js, Python. (While we also work with React and Vue, the current primary project uses Vanilla JS).
+- **Project Name:** BrainAV.ca (AI Tech Lab)
+- **Description:** A creative technology lab building AI-driven music production tools and AV solutions. **Note:** We have pivoted away from DJ services (now at JasonBrain.com).
+- **Tech Stack:** Python (AI/Backend), Node.js, Vanilla JavaScript (Frontend), OSC (Open Sound Control).
 
 ## 2. Key Documents
 
@@ -34,5 +34,7 @@ This is the most important section. Use these documents to understand our goals,
 - **When writing code:** Adhere strictly to the `DESIGN_GUIDE.md` for frontend code and the architectural principles for all code.
 - **When planning a feature:** Consult the `roadmap.md` to see if it aligns with our current goals.
 - **When refactoring:** Ensure your changes maintain or improve test coverage.
+- **When completing a task:** Always update `CHANGELOG.md` under the `[Unreleased]` section with a concise summary of changes (Added, Changed, Fixed, or Removed).
+- **When releasing:** Create a dedicated markdown file in `.github/releases/` (e.g., `v0.2.0.md`) detailing the changes, migration guides, and highlights.
 
 By following this guide, you will be an invaluable part of our development process. Thank you!

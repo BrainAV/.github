@@ -19,6 +19,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 - (Nothing yet)
 
+## [0.2.1] - 2025-12-20
+
+### Added
+- Created `prompt.md` for AI context loading and task launching.
+- Created `CONTRIBUTING.md` to define workflow and tech stack.
+- Added "Project Checkup" task to `prompt.md`.
+
+### Changed
+- **Strategic Pivot:** Updated `roadmap.md` to reflect transition from DJ Services to AI Tech Lab.
+- Updated `AI_DEV_GUIDE.md` to align with the new product-focused mission.
+- Updated `CONTRIBUTING.md` to include changelog update rules.
+- Updated `README.md` and `profile/README.md` to define the BrainAV Ecosystem: "The DJ Brain" (Performance) and "AI Co-Producer" (Creation).
+
 ---
 
 ## [0.2.0] - 2025-12-07

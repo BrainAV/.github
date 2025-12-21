@@ -27,7 +27,7 @@ Future modules for AI-driven visual synthesis and live performance synchronizati
 ## 🔗 Links
 
 - **Main Website:** [BrainAV.ca](https://brainav.ca)
-- **Blog:** [JasonBrain.com/blog](https://jasonbrain.com/blog)
+- **Jason's Blogs:** [JasonBrain.com/#blogs](https://jasonbrain.com/#blogs)
 
 ---
 © 2025 BrainAV

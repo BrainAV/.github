@@ -16,10 +16,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Navigation:** Updated links to point to products and external resources (GitHub, Blog).
 
 ### Fixed
-- (Nothing yet)
+- **UI Bug:** Fixed `.btn-secondary` visibility issues on light backgrounds by applying brand colors.
 
 ### Removed
-- (Nothing yet)
+- **Cleanup:** Removed unused CSS classes (`.form-container`, `.contact-section`, etc.) following the removal of legacy DJ service content.
 
 ## [0.2.1] - 2025-12-20
 

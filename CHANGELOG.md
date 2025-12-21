@@ -8,10 +8,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-- (Nothing yet)
+- Added Feather Icons library for modern SVG iconography.
 
 ### Changed
-- (Nothing yet)
+- **Web Pivot:** Refactored `index.html` to replace DJ service content with the new "AI Tech Lab" product showcase.
+- **Content:** Added "The DJ Brain" and "AI Co-Producer" sections.
+- **Navigation:** Updated links to point to products and external resources (GitHub, Blog).
 
 ### Fixed
 - (Nothing yet)

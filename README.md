@@ -15,7 +15,7 @@ This repository (`.github`) serves two purposes:
 1.  **Organization Profile**: Contains the public profile README for the BrainAV organization.
 2.  **Website Source**: Hosts the source code for the BrainAV web presence.
     - **Main Site (`brainav.ca`)**: Deployed to cPanel from `public/` (PHP).
-    - **Hub (`hub.brainav.ca`)**: Deployed to GitHub Pages from Root (Static).
+    - **Hub (`hub.brainav.ca`)**: The landing page for the BrainAV Org Ecosystem on GitHub.
 
 ## 🧠 The Mission
 

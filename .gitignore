@@ -3,3 +3,6 @@ public/config.php
 
 # System
 .DS_Store
+
+# FreeFileSync for FTP
+public/sync.ffs_db

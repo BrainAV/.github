@@ -107,12 +107,26 @@ $pageTitle = "BrainAV - AI Music Tools & Tech Lab";
                 </ul>
             </div>
             
+            <!-- Flight Deck -->
+            <div class="service-card service-card--light" id="flight-deck">
+                <div class="service-icon"><i data-feather="sliders"></i></div>
+                <h3>Flight Deck</h3>
+                <p><strong>Control & Management</strong></p>
+                <p>The central command center for the BrainAV ecosystem. A custom interface for real-time performance, system management, and AI tool interaction.</p>
+                <ul>
+                    <li>Real-time AV Control</li>
+                    <li>System Monitoring</li>
+                    <li><a href="https://brainav.github.io/FlightDeck-Framework/" target="_blank" rel="noopener noreferrer">View Prototypes</a></li>
+                    <li><a href="https://github.com/BrainAV/FlightDeck-Framework" target="_blank" rel="noopener noreferrer">Explore Framework</a></li>
+                </ul>
+            </div>
+            
             <!-- Visuals -->
             <div class="service-card service-card--light">
                 <div class="service-icon"><i data-feather="eye"></i></div>
                 <h3>Visuals (Add-on)</h3>
                 <p><strong>Visual Synthesis</strong></p>
-                <p>Future modules for AI-driven visual synthesis and live performance synchronization.</p>
+                <p>An add-on for Flight Deck providing AI-driven visual synthesis and live performance synchronization.</p>
                 <ul>
                     <li>Audio-Reactive</li>
                     <li>Live Sync</li>

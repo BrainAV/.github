@@ -20,8 +20,9 @@ This document outlines the strategic pivot of BrainAV from a service-based agenc
   - [x] **Redirect Traffic:** Add clear call-to-actions directing service inquiries to JasonBrain.com.
   - [ ] **Content Consolidation:** Link to the existing Tech Blog and Music Blog on JasonBrain.com.
   - [ ] **Deployment:**
-    - [ ] Configure DNS for `brainav.ca` (cPanel) and subdomain (GitHub Pages).
-    - [ ] Upload `public/` folder to cPanel `public_html`.
+    - [x] Configure DNS for `brainav.ca` (cPanel) and subdomain (GitHub Pages).
+    - [x] Upload `public/` folder to cPanel `public_html`.
+    - [ ] **Database:** Plan database schema for user accounts/settings (Phase 1 preparation).
   - [x] **Epic: AI Agent Readiness**
     - [x] Maintain `prompt.md` (now `.gemini/PROMPT.md`) for autonomous agent context.
     - [x] Establish structured release notes workflow in `releases/` folder.

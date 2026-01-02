@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Website:** Updated Flight Deck link to prototypes and clarified Visuals as an add-on.
 - **Website:** Restored "Explore Framework" link to Flight Deck card.
 - **Docs:** Updated `README.md` and `profile/README.md` with Flight Deck details and links.
+- **Deployment:** Synced `public/index.php` with `index.html` content (Flight Deck & Visuals updates).
+- **Hub:** Updated `index.html` title and heading to "BrainAV Ecosystem Hub" to distinguish it from the main site.
+- **Roadmap:** Added database planning task for user accounts (Phase 1).
+- **Deployment:** Completed initial cPanel deployment and DNS configuration.
 
 ## [0.2.2] - 2026-01-01
 

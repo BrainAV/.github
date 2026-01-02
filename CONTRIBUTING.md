@@ -1,34 +1,35 @@
-# Contributing to BrainAV
+# Contributing to BrainAV Profile & Website
 
-Thank you for your interest in contributing to BrainAV! We are building the next generation of AI music tools.
+Thank you for your interest in contributing to the BrainAV organization hub!
 
-## 👋 Welcome
+## 👋 Scope
 
-BrainAV has pivoted from a service-based agency to an AI Tech Lab. We welcome contributions to our open-source tools, particularly `ai-coproducer`.
+This repository (`.github`) hosts the **Organization Profile** and the **BrainAV.ca** landing page.
 
-## 🛠️ Tech Stack
+**Note:** If you are looking to contribute to the AI tools (Python/OSC), please refer to the specific product repositories linked in the README.
 
-- **Core Logic:** Python 3.10+
-- **Integration:** Open Sound Control (OSC) via `python-osc` or `AbletonOSC`.
+## 🛠️ Tech Stack (This Repo)
+
 - **Frontend:** Vanilla JavaScript, HTML5, CSS3 (Variables).
-- **AI Backend:** Ollama (Local), Gemini/Claude (Cloud).
+- **Backend:** PHP 8.x.
+- **Documentation:** Markdown.
 
 ## 🚀 Getting Started
 
 1.  **Fork the repository.**
-2.  **Clone your fork:** `git clone https://github.com/BrainAV/[repo].git`
+2.  **Clone your fork:** `git clone https://github.com/BrainAV/.github.git`
 3.  **Create a branch:** `git checkout -b feature/amazing-feature`
 
 ## 📝 Workflow
 
 1.  **Check the Roadmap:** Ensure your contribution aligns with `roadmap.md`.
 2.  **Follow Standards:**
-    - Code: See `AI_DEV_GUIDE.md`.
+    - Code: See `.gemini/AI_DEV_GUIDE.md`.
     - Design: See `DESIGN_GUIDE.md`.
-3.  **Commit Messages:** Use clear, descriptive messages (e.g., `feat: add OSC client` or `fix: mobile nav layout`).
-4.  **Update Changelog & Releases:** Add a line to the `[Unreleased]` section of `CHANGELOG.md` for any notable change. For official releases, create a detailed markdown file in `.github/releases/`.
+3.  **Commit Messages:** Use clear, descriptive messages (e.g., `feat: update landing page hero` or `docs: refine readme`).
+4.  **Update Changelog:** Add a line to the `[Unreleased]` section of `CHANGELOG.md` for any notable change.
 
 ## 🧪 Testing
 
-- **Python:** Ensure unit tests pass (using `pytest`).
-- **Frontend:** Verify responsiveness and accessibility.
+- **Frontend:** Verify responsiveness and accessibility across devices.
+- **Links:** Ensure all links to external product repositories are valid.

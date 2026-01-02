@@ -9,6 +9,14 @@ Welcome to **BrainAV**, a creative technology lab dedicated to building the next
 > 🎧 **Looking for DJ Services?**
 > For professional DJ services, weddings, and event entertainment, please visit **[JasonBrain.com](https://jasonbrain.com)**.
 
+## 📂 About this Repository
+
+This repository (`.github`) serves two purposes:
+1.  **Organization Profile**: Contains the public profile README for the BrainAV organization.
+2.  **Website Source**: Hosts the source code for the BrainAV web presence.
+    - **Main Site (`brainav.ca`)**: Deployed to cPanel from `public/` (PHP).
+    - **Hub (`hub.brainav.ca`)**: Deployed to GitHub Pages from Root (Static).
+
 ## 🧠 The Mission
 
 We are building **BrainAV**, an ecosystem of intelligent tools that act as collaborative partners for musicians, producers, and visual artists. Our focus is on bridging the gap between Large Language Models (LLMs) and professional creative software.
@@ -32,10 +40,16 @@ Utilities for audio-visual synchronization and live performance tech.
 
 ## 🛠 Tech Stack
 
-- **AI/ML**: Python, PyTorch, TensorFlow, Ollama, Gemini API
-- **Integration**: Open Sound Control (OSC), Ableton Live API, VST3
-- **Hardware**: Raspberry Pi, NVIDIA Jetson
-- **Web**: Modern JavaScript, React/Vue (for dashboards)
+### 🌐 This Repository (Website & Profile)
+- **Frontend**: HTML5, CSS3 (Variables), Vanilla JavaScript.
+- **Backend**: PHP (cPanel Hosting).
+- **Purpose**: Organization landing page and documentation hub.
+
+### 🧠 BrainAV Ecosystem (Product Labs)
+*These technologies are used in our product repositories (e.g., `The-DJ-Brain`, `AI-Co-Producer`).*
+- **Core**: Python 3.10+, Node.js, Open Sound Control (OSC).
+- **AI/ML**: Ollama (Local), Gemini/Claude (Cloud).
+- **Hardware**: Raspberry Pi 5, NVIDIA Jetson.
 
 ## 🔗 Resources
 

@@ -14,23 +14,27 @@ This document outlines the strategic pivot of BrainAV from a service-based agenc
 
 ## 🔄 Phase 0: The Pivot (Immediate)
 
-- [ ] **Epic: Brand & Web Migration**
-  - [ ] **Rebrand `BrainAV.ca`:** Update landing page to showcase "AI Tech Lab" and "AV Tools".
-  - [ ] **Service Offloading:** Remove booking forms and wedding DJ content.
-  - [ ] **Redirect Traffic:** Add clear call-to-actions directing service inquiries to JasonBrain.com.
+- [x] **Epic: Brand & Web Migration**
+  - [x] **Rebrand `BrainAV.ca`:** Update landing page to showcase "AI Tech Lab" and "AV Tools".
+  - [x] **Service Offloading:** Remove booking forms and wedding DJ content.
+  - [x] **Redirect Traffic:** Add clear call-to-actions directing service inquiries to JasonBrain.com.
   - [ ] **Content Consolidation:** Link to the existing Tech Blog and Music Blog on JasonBrain.com.
-  - [ ] **Epic: AI Agent Readiness**
-    - [ ] Maintain `prompt.md` for autonomous agent context.
-    - [ ] Establish structured release notes workflow in `releases/` folder.
+  - [ ] **Deployment:**
+    - [ ] Configure DNS for `brainav.ca` (cPanel) and subdomain (GitHub Pages).
+    - [ ] Upload `public/` folder to cPanel `public_html`.
+  - [x] **Epic: AI Agent Readiness**
+    - [x] Maintain `prompt.md` (now `.gemini/PROMPT.md`) for autonomous agent context.
+    - [x] Establish structured release notes workflow in `releases/` folder.
 
 ## 🧠 Phase 1: AI Co-Producer (The Foundation)
 
 *Focus: Bridging LLMs with DAWs (Ableton Live)*
 
 - [ ] **Epic: Core Architecture**
-  - [ ] Develop Python-based bridge application.
-  - [ ] Implement OSC (Open Sound Control) connectivity using `AbletonOSC`.
-  - [ ] Integrate pluggable LLM backend (Gemini, Claude, Ollama).
+  - [ ] **Repository Setup:** Initialize separate `ai-coproducer` repository for Python/OSC logic.
+  - [ ] **Bridge Prototype:** Develop initial Python OSC server.
+  - [ ] **Integration:** Implement OSC connectivity using `python-osc`.
+  - [ ] **LLM Backend:** Integrate pluggable backend (Gemini, Claude, Ollama).
 - [ ] **Epic: Generative Capabilities**
   - [ ] **Text-to-MIDI:** Generate melodies, chords, and drum patterns from prompts.
   - [ ] **Sound Design Recipes:** AI guidance for synth parameter adjustments.

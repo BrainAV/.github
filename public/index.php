@@ -1,3 +1,6 @@
+<?php
+$pageTitle = "BrainAV - AI Music Tools & Tech Lab";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,14 +14,15 @@
   </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>BrainAV - AI Music Tools & Tech Lab</title>
+  <title><?php echo $pageTitle; ?></title>
   
   <meta name="description" content="BrainAV is a creative technology lab building intelligent tools for the future of music, including The DJ Brain and AI Co-Producer.">
   <meta name="keywords" content="AI Music, DJ AI, Ableton Live AI, OSC, Python, Music Production, BrainAV, Jason Brain, The DJ Brain, AI Co-Producer">
   <meta name="author" content="Jason Brain - BrainAV.ca">
   <meta name="robots" content="index, follow">
   
-  <link rel="stylesheet" href="public/style.css">
+  <!-- Assets are siblings in the public folder -->
+  <link rel="stylesheet" href="style.css">
   <!-- Feather Icons -->
   <script src="https://unpkg.com/feather-icons"></script>
 </head>
@@ -146,6 +150,9 @@
   </div>
 
   <!-- Footer -->
+  <?php
+  $year = date("Y");
+  ?>
   <footer>
     <div class="footer-content">
       <div class="footer-grid">
@@ -174,7 +181,7 @@
       </div>
       
       <div class="footer-bottom">
-        <p>&copy; 2025 BrainAV | MIT License</p>
+        <p>&copy; <?php echo $year; ?> BrainAV | MIT License</p>
       </div>
     </div>
   </footer>
@@ -182,7 +189,7 @@
   <!-- Scroll to Top Button -->
   <button class="scroll-top" id="scrollTop">↑</button>
 
-  <script src="public/main.js"></script>
+  <script src="main.js"></script>
   <script>
     feather.replace();
   </script>

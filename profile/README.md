@@ -30,4 +30,4 @@ Future modules for AI-driven visual synthesis and live performance synchronizati
 - **Jason's Blogs:** [JasonBrain.com/#blogs](https://jasonbrain.com/#blogs)
 
 ---
-© 2025 BrainAV
+© 2026 BrainAV

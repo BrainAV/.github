@@ -18,7 +18,7 @@ This document outlines the strategic pivot of BrainAV from a service-based agenc
   - [x] **Rebrand `BrainAV.ca`:** Update landing page to showcase "AI Tech Lab" and "AV Tools".
   - [x] **Service Offloading:** Remove booking forms and wedding DJ content.
   - [x] **Redirect Traffic:** Add clear call-to-actions directing service inquiries to JasonBrain.com.
-  - [ ] **Content Consolidation:** Link to the existing Tech Blog and Music Blog on JasonBrain.com.
+  - [x] **Content Consolidation:** Link to the existing Tech Blog and Music Blog on JasonBrain.com.
   - [ ] **Deployment:**
     - [x] Configure DNS for `brainav.ca` (cPanel) and subdomain (GitHub Pages).
     - [x] Upload `public/` folder to cPanel `public_html`.
@@ -54,6 +54,8 @@ This document outlines the strategic pivot of BrainAV from a service-based agenc
 - [x] **Epic: Visuals (Audio-Visualizer)**
   - [x] **Repository Setup:** Initialize `Audio-Visualizer` repository.
   - [x] **Prototype:** Create basic audio-reactive sketch.
+- [ ] **Epic: Infrastructure (DigiPi)**
+  - [ ] **Integration:** Integrate DigiPi with the Flight Deck framework.
 
 ## 🛠 Phase 3: Desktop & VST Integration
 

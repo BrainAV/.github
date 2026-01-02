@@ -28,6 +28,12 @@ An add-on for Flight Deck providing AI-driven visual synthesis and live performa
 - [View Demo](https://brainav.github.io/Audio-Visualizer/)
 - [Explore Repo](https://github.com/BrainAV/Audio-Visualizer)
 
+### 5. DigiPi (Infrastructure)
+**"Digital Signage & Hotspot."**
+Offline server for dynamic menus and captive portal routing. Future integration as remote visual displays.
+- [View Demo](https://brainav.github.io/DigiPi-Universal-Offline-Digital-Menu-and-Customer-Hotspot/)
+- [Explore Repo](https://github.com/BrainAV/DigiPi-Universal-Offline-Digital-Menu-and-Customer-Hotspot)
+
 ## 🛠 Technical Focus
 
 - **Languages:** Python (AI/Backend), Node.js, C++.

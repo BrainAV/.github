@@ -136,6 +136,20 @@ $pageTitle = "BrainAV - AI Music Tools & Tech Lab";
                     <li><a href="https://github.com/BrainAV/Audio-Visualizer" target="_blank" rel="noopener noreferrer">Explore Repo</a></li>
                 </ul>
             </div>
+
+            <!-- DigiPi -->
+            <div class="service-card service-card--light">
+                <div class="service-icon"><i data-feather="wifi"></i></div>
+                <h3>DigiPi</h3>
+                <p><strong>Signage & Hotspot</strong></p>
+                <p>Digital signage server and Wi-Fi hotspot. Deploy dynamic menus and route traffic via captive portal.</p>
+                <ul>
+                    <li>Dynamic Menus (CSV)</li>
+                    <li>Captive Portal</li>
+                    <li><a href="https://brainav.github.io/DigiPi-Universal-Offline-Digital-Menu-and-Customer-Hotspot/" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                    <li><a href="https://github.com/BrainAV/DigiPi-Universal-Offline-Digital-Menu-and-Customer-Hotspot" target="_blank" rel="noopener noreferrer">Explore Repo</a></li>
+                </ul>
+            </div>
         </div>
     </section>
 

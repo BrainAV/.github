@@ -46,6 +46,11 @@ A custom interface for real-time performance, system management, and AI tool int
 An add-on for Flight Deck providing AI-driven visual synthesis and live performance synchronization.
 - **Links**: [View Demo](https://brainav.github.io/Audio-Visualizer/) | [Explore Repo](https://github.com/BrainAV/Audio-Visualizer)
 
+### DigiPi
+**Digital Signage & Hotspot.**
+Offline server for dynamic menus and captive portal routing. Future integration as remote visual displays.
+- **Links**: [View Demo](https://brainav.github.io/DigiPi-Universal-Offline-Digital-Menu-and-Customer-Hotspot/) | [Explore Repo](https://github.com/BrainAV/DigiPi-Universal-Offline-Digital-Menu-and-Customer-Hotspot)
+
 ## 🛠 Tech Stack
 
 ### 🌐 This Repository (Website & Profile)

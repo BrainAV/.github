@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- **Ecosystem:** Added "DigiPi" (Digital Signage & Hotspot) project to website and documentation.
+- **Roadmap:** Added task to integrate DigiPi with Flight Deck framework.
+
 ## [0.2.3] - 2026-01-02
 
 ### Added

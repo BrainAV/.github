@@ -10,6 +10,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - **Ecosystem:** Added "DigiPi" (Digital Signage & Hotspot) project to website and documentation.
 - **Roadmap:** Added task to integrate DigiPi with Flight Deck framework.
+- **Roadmap:** Added "Phase 4: Platform Unification" for JasonBrain CMS integration.
+- **Docs:** Updated `scratchpad.md` structure and added commit prompt to `PROMPT_GUIDE.md`.
 
 ## [0.2.3] - 2026-01-02
 

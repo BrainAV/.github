@@ -6,3 +6,7 @@ public/config.php
 
 # FreeFileSync for FTP
 public/sync.ffs_db
+
+# cpanel synced files from FreeFileSync
+public/.well-known/
+public/cgi-bin/

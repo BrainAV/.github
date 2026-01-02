@@ -22,7 +22,7 @@ This document outlines the strategic pivot of BrainAV from a service-based agenc
   - [ ] **Deployment:**
     - [x] Configure DNS for `brainav.ca` (cPanel) and subdomain (GitHub Pages).
     - [x] Upload `public/` folder to cPanel `public_html`.
-    - [ ] **Database:** Plan database schema for user accounts/settings (Phase 1 preparation).
+    - [ ] **Database:** Plan database schema for user accounts/settings (Align with JasonBrain CMS).
   - [x] **Epic: AI Agent Readiness**
     - [x] Maintain `prompt.md` (now `.gemini/PROMPT.md`) for autonomous agent context.
     - [x] Establish structured release notes workflow in `releases/` folder.
@@ -62,6 +62,18 @@ This document outlines the strategic pivot of BrainAV from a service-based agenc
 - [ ] **Epic: Seamless Workflow**
   - [ ] Develop VST3 Wrapper for in-DAW control (minimizing context switching).
   - [ ] Create advanced visualization for AI "thought process" inside the DAW.
+
+## 🏗 Phase 4: Platform Unification (JasonBrain CMS)
+
+*Focus: Centralizing development under the custom CMS workspace.*
+
+- [ ] **Epic: Workspace Integration**
+  - [ ] **Migration:** Prepare BrainAV repo for integration into `jasonbra1n/workspace/`.
+  - [ ] **Standardization:** Align `.github` workflows and coding standards with the master CMS.
+- [ ] **Epic: Shared Core (PHP)**
+  - [ ] **Router:** Adopt the CMS routing architecture.
+  - [ ] **Auth:** Implement unified user authentication (SSO).
+  - [ ] **Components:** Refactor UI to use shared CMS component library.
 
 ---
 

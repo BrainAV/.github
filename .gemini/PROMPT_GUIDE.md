@@ -39,6 +39,7 @@ Please read all the project context files (`.gemini/prompt.md`, `.github/ROADMAP
 - "Please update the `CHANGELOG.md` to reflect the recent changes we've made."
 - "Review the `README.md` for correctness, clarity, and to ensure all links are working."
 - "Let's review all the documentation files (`.github/*`, `README.md`) to ensure they are consistent and up-to-date."
+- "Summarize the changes we made in this session for a Git commit message. Follow the Conventional Commits format."
 
 ---
 

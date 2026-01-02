@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - **Website:** Added the "Flight Deck" project to the Ecosystem showcase on the homepage.
+- **Website:** Updated Flight Deck link to prototypes and clarified Visuals as an add-on.
+- **Website:** Restored "Explore Framework" link to Flight Deck card.
+- **Docs:** Updated `README.md` and `profile/README.md` with Flight Deck details and links.
 
 ## [0.2.2] - 2026-01-01
 

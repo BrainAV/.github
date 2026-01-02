@@ -35,8 +35,13 @@ A multi-platform assistant that allows you to conduct a song from initial spark 
 An intelligent performance agent designed to mix, curate, and play existing music.
 - **Focus**: Playback, Mixing, Crowd Reading, Library Management.
 
-### AV Tools (Coming Soon)
-Utilities for audio-visual synchronization and live performance tech.
+### Flight Deck
+**The Central Command Center.**
+A custom interface for real-time performance, system management, and AI tool interaction.
+- **Links**: [View Prototypes](https://brainav.github.io/FlightDeck-Framework/) | [Explore Framework](https://github.com/BrainAV/FlightDeck-Framework)
+
+### Visuals (Add-on)
+An add-on for Flight Deck providing AI-driven visual synthesis and live performance synchronization.
 
 ## 🛠 Tech Stack
 

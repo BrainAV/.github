@@ -14,9 +14,15 @@ An intelligent DJ application designed to mix, curate, and perform. It handles t
 **"The AI that makes music."**
 An executive producer for your DAW (starting with Ableton Live). It handles the **creation** side—generating MIDI, designing sounds, and arranging tracks via OSC (Open Sound Control).
 
-### 3. Visuals (Add-on)
+### 3. Flight Deck (Control)
+**"The interface that connects it all."**
+The central command center for the BrainAV ecosystem.
+- [View Prototypes](https://brainav.github.io/FlightDeck-Framework/)
+- [Explore Framework](https://github.com/BrainAV/FlightDeck-Framework)
+
+### 4. Visuals (Add-on)
 **"The AI that sees music."**
-Future modules for AI-driven visual synthesis and live performance synchronization.
+An add-on for Flight Deck providing AI-driven visual synthesis and live performance synchronization.
 
 ## 🛠 Technical Focus
 

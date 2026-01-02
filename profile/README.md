@@ -25,8 +25,8 @@ The central command center for the BrainAV ecosystem.
 ### 4. Visuals (Add-on)
 **"The AI that sees music."**
 An add-on for Flight Deck providing AI-driven visual synthesis and live performance synchronization.
-- View Demo
-- Explore Repo
+- [View Demo](https://brainav.github.io/Audio-Visualizer/)
+- [Explore Repo](https://github.com/BrainAV/Audio-Visualizer)
 
 ## 🛠 Technical Focus
 

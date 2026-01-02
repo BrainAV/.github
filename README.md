@@ -44,7 +44,7 @@ A custom interface for real-time performance, system management, and AI tool int
 
 ### Visuals (Add-on)
 An add-on for Flight Deck providing AI-driven visual synthesis and live performance synchronization.
-- **Links**: View Demo | Explore Repo
+- **Links**: [View Demo](https://brainav.github.io/Audio-Visualizer/) | [Explore Repo](https://github.com/BrainAV/Audio-Visualizer)
 
 ## 🛠 Tech Stack
 

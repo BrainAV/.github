@@ -51,6 +51,9 @@ This document outlines the strategic pivot of BrainAV from a service-based agenc
 - [ ] **Epic: Embedded Systems**
   - [ ] Build and release disk images for Raspberry Pi 5 & Jetson Nano.
   - [ ] Optimize local LLM inference for edge devices.
+- [x] **Epic: Visuals (Audio-Visualizer)**
+  - [x] **Repository Setup:** Initialize `Audio-Visualizer` repository.
+  - [x] **Prototype:** Create basic audio-reactive sketch.
 
 ## 🛠 Phase 3: Desktop & VST Integration
 

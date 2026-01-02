@@ -91,6 +91,7 @@ $pageTitle = "BrainAV - AI Music Tools & Tech Lab";
                     <li>Intelligent Mixing</li>
                     <li>Crowd Reading</li>
                     <li>Library Management</li>
+                    <li><a href="https://github.com/BrainAV/The-DJ-Brain" target="_blank" rel="noopener noreferrer">Explore Repo</a></li>
                 </ul>
             </div>
             
@@ -104,6 +105,7 @@ $pageTitle = "BrainAV - AI Music Tools & Tech Lab";
                     <li>Text-to-MIDI</li>
                     <li>Sound Design Recipes</li>
                     <li>Ableton Live Integration</li>
+                    <li><a href="https://github.com/BrainAV/AI-Co-Producer" target="_blank" rel="noopener noreferrer">Explore Repo</a></li>
                 </ul>
             </div>
             
@@ -130,6 +132,8 @@ $pageTitle = "BrainAV - AI Music Tools & Tech Lab";
                 <ul>
                     <li>Audio-Reactive</li>
                     <li>Live Sync</li>
+                    <li><a href="https://brainav.github.io/Audio-Visualizer/" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                    <li><a href="https://github.com/BrainAV/Audio-Visualizer" target="_blank" rel="noopener noreferrer">Explore Repo</a></li>
                 </ul>
             </div>
         </div>

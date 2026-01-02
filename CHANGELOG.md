@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.3] - 2026-01-02
+
 ### Added
 - **Website:** Added the "Flight Deck" project to the Ecosystem showcase on the homepage.
 - **Website:** Updated Flight Deck link to prototypes and clarified Visuals as an add-on.
@@ -16,6 +18,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Hub:** Updated `index.html` title and heading to "BrainAV Ecosystem Hub" to distinguish it from the main site.
 - **Roadmap:** Added database planning task for user accounts (Phase 1).
 - **Deployment:** Completed initial cPanel deployment and DNS configuration.
+- **Roadmap:** Added `Audio-Visualizer` repository initialization task.
+- **Visuals:** Initialized `Audio-Visualizer` repo and deployed mic-reactive demo.
+- **Docs:** Added repository link for "The DJ Brain" (Roadmap/Planning phase).
+- **Docs:** Added repository link for "AI Co-Producer" (Roadmap/Planning phase).
 
 ## [0.2.2] - 2026-01-01
 

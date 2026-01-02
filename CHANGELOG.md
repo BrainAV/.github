@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- **Website:** Added the "Flight Deck" project to the Ecosystem showcase on the homepage.
+
 ## [0.2.2] - 2026-01-01
 
 ### Added

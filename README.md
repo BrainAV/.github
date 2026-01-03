@@ -23,20 +23,6 @@ We are building **BrainAV**, an ecosystem of intelligent tools that act as colla
 
 ## 🚀 Key Projects
 
-### AI Co-Producer
-**Your AI Executive Producer for Ableton Live.**
-A multi-platform assistant that allows you to conduct a song from initial spark to final arrangement using natural language.
-- **Generative Composition**: Text-to-MIDI for melodies and drums.
-- **Sound Design**: AI-guided synth programming.
-- **Cross-Platform**: Windows, macOS, Linux, Raspberry Pi.
-- **Links**: [Explore Repo](https://github.com/BrainAV/AI-Co-Producer)
-
-### The DJ Brain
-**The AI DJ App (Playing Music).**
-An intelligent performance agent designed to mix, curate, and play existing music.
-- **Focus**: Playback, Mixing, Crowd Reading, Library Management.
-- **Links**: [Explore Repo](https://github.com/BrainAV/The-DJ-Brain)
-
 ### Flight Deck
 **The Central Command Center.**
 A custom interface for real-time performance, system management, and AI tool interaction.
@@ -45,11 +31,6 @@ A custom interface for real-time performance, system management, and AI tool int
 ### Visuals (Add-on)
 An add-on for Flight Deck providing AI-driven visual synthesis and live performance synchronization.
 - **Links**: [View Demo](https://brainav.github.io/Audio-Visualizer/) | [Explore Repo](https://github.com/BrainAV/Audio-Visualizer)
-
-### DigiPi
-**Digital Signage & Hotspot.**
-Offline server for dynamic menus and captive portal routing. Future integration as remote visual displays.
-- **Links**: [View Demo](https://brainav.github.io/DigiPi-Universal-Offline-Digital-Menu-and-Customer-Hotspot/) | [Explore Repo](https://github.com/BrainAV/DigiPi-Universal-Offline-Digital-Menu-and-Customer-Hotspot)
 
 ## 🛠 Tech Stack
 

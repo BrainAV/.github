@@ -11,35 +11,19 @@
 
 ## 🌌 The Ecosystem
 
-We are developing a suite of distinct creative tools that cover the full spectrum of music:
+We are developing a suite of distinct creative tools:
 
-### 1. AI Co-Producer (Creation)
-**"The AI that makes music."**
-An executive producer for your DAW (starting with Ableton Live). It handles the **creation** side—generating MIDI, designing sounds, and arranging tracks via OSC (Open Sound Control).
-- [Explore Repo](https://github.com/BrainAV/AI-Co-Producer)
-
-### 2. The DJ Brain (Performance)
-**"The AI that plays music."**
-An intelligent DJ application designed to mix, curate, and perform. It handles the **playback** side of the equation—reading crowds, mixing tracks, and managing energy levels.
-- [Explore Repo](https://github.com/BrainAV/The-DJ-Brain)
-
-### 3. Flight Deck (Control)
+### 1. Flight Deck (Control)
 **"The interface that connects it all."**
 The central command center for the BrainAV ecosystem.
 - [View Prototypes](https://brainav.github.io/FlightDeck-Framework/)
 - [Explore Framework](https://github.com/BrainAV/FlightDeck-Framework)
 
-### 4. Visuals (Add-on)
+### 2. Visuals (Add-on)
 **"The AI that sees music."**
 An add-on for Flight Deck providing AI-driven visual synthesis and live performance synchronization.
 - [View Demo](https://brainav.github.io/Audio-Visualizer/)
 - [Explore Repo](https://github.com/BrainAV/Audio-Visualizer)
-
-### 5. DigiPi (Infrastructure)
-**"Digital Signage & Hotspot."**
-Offline server for dynamic menus and captive portal routing. Future integration as remote visual displays.
-- [View Demo](https://brainav.github.io/DigiPi-Universal-Offline-Digital-Menu-and-Customer-Hotspot/)
-- [Explore Repo](https://github.com/BrainAV/DigiPi-Universal-Offline-Digital-Menu-and-Customer-Hotspot)
 
 ## 🛠 Technical Focus
 

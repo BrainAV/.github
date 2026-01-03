@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+- **Content:** Scaled back product showcase to focus exclusively on "Flight Deck" and "Visuals".
+- **Website:** Removed "AI Co-Producer", "The DJ Brain", and "DigiPi" from the landing page.
+
 ## [0.2.4] - 2026-01-03
 
 ### Changed

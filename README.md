@@ -14,8 +14,8 @@ Welcome to **BrainAV**, a creative technology lab dedicated to building the next
 This repository (`.github`) serves two purposes:
 1.  **Organization Profile**: Contains the public profile README for the BrainAV organization.
 2.  **Website Source**: Hosts the source code for the BrainAV web presence.
-    - **Main Site (`brainav.ca`)**: Deployed to cPanel from `public/` (PHP).
-    - **Hub (`hub.brainav.ca`)**: The landing page for the BrainAV Org Ecosystem on GitHub.
+    - **Main Site (`brainav.ca`)**: The source for our main website is now in a private repository.
+    - **Hub (`hub.brainav.ca`)**: This repository hosts the source for our GitHub Pages hub site (`index.html`).
 
 ## 🧠 The Mission
 
@@ -55,8 +55,7 @@ Offline server for dynamic menus and captive portal routing. Future integration 
 
 ### 🌐 This Repository (Website & Profile)
 - **Frontend**: HTML5, CSS3 (Variables), Vanilla JavaScript.
-- **Backend**: PHP (cPanel Hosting).
-- **Purpose**: Organization landing page and documentation hub.
+- **Purpose**: Serves as the organization's profile and the `hub.brainav.ca` GitHub Pages site.
 
 ### 🧠 BrainAV Ecosystem (Product Labs)
 *These technologies are used in our product repositories (e.g., `The-DJ-Brain`, `AI-Co-Producer`).*
@@ -71,6 +70,6 @@ Offline server for dynamic menus and captive portal routing. Future integration 
 
 ## License
 
-© 2025 BrainAV | MIT License
+© 2026 BrainAV | MIT License
 
 This organization maintains open-source projects. For commercial partnerships regarding our AI technology, please reach out.

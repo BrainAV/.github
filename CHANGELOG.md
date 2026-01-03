@@ -7,6 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.4] - 2026-01-03
+
+### Changed
+- **Repo Structure:** Refactored repository to serve only the GitHub org profile and the `hub.brainav.ca` Pages site. The main `brainav.ca` website source has been moved to a new private repository.
+- **Roadmap:** Cleaned up `roadmap.md` to focus on Hub/Profile maintenance and high-level ecosystem tracking, removing detailed product tasks.
+- **Profile:** Updated `profile/README.md` to align with the pivot notice, reordered products to match roadmap priority, and fixed links.
+- **AI Context:** Updated `PROMPT.md` and `PROMPT_GUIDE.md` to reflect the removal of PHP and the new Hub maintenance workflow.
+- **Docs:** Removed legacy PHP references from `CONTRIBUTING.md` and `readme.md`. Removed placeholder links from `DESIGN_GUIDE.md`.
+- **Design:** Updated `DESIGN_GUIDE.md` to distinguish between marketing and app typography scales.
+- **Frontend:** Integrated Google Fonts (Inter) in `index.html` and `style.css` to align with design system.
+
+### Removed
+- **Backend:** Removed PHP dependency and `public/` directory structure as the main site is no longer hosted here.
+
 ### Added
 - **Ecosystem:** Added "DigiPi" (Digital Signage & Hotspot) project to website and documentation.
 - **Roadmap:** Added task to integrate DigiPi with Flight Deck framework.

@@ -48,3 +48,12 @@ Please read all the project context files (`.gemini/prompt.md`, `.github/ROADMAP
 *Use these prompts to version and release the project.*
 
 - "Let's release version vX.X.X. Please update the `CHANGELOG.md` by moving the `[Unreleased]` items to a new `[vX.X.X] - YYYY-MM-DD` section and creating a new empty `[Unreleased]` section."
+
+---
+
+## 6. Hub & Profile Maintenance
+
+*Use these for the specific maintenance tasks of this repository.*
+
+- "Let's add a new product card to `index.html` for the '[Repo Name]' repository."
+- "Update the `profile/README.md` to highlight our latest release."

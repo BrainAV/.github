@@ -36,11 +36,19 @@ Our palette is designed to be modern, accessible, and energetic, reflecting our 
 ## 3. Typography
 
 - **Font Family:** Inter, with a fallback to `sans-serif`.
-- **Headings:**
-  - `h1`: 32px, Bold (700)
-  - `h2`: 28px, Bold (700)
-  - `h3`: 24px, Semi-Bold (600)
-- **Body Text:** 16px, Regular (400)
+
+### Marketing Typography (Website & Hub)
+Designed for impact and readability on landing pages.
+- `Display h1`: 4rem (64px), Bold (700)
+- `Display h2`: 3rem (48px), Bold (700)
+- `Body`: 1rem (16px) - 1.2rem (19px)
+
+### App Typography (Dashboards & Tools)
+Designed for density and utility in application interfaces.
+- `h1`: 32px, Bold (700)
+- `h2`: 28px, Bold (700)
+- `h3`: 24px, Semi-Bold (600)
+- `Body`: 16px, Regular (400)
 
 ## 4. Spacing & Layout
 
@@ -64,5 +72,4 @@ We use the **Feather Icons** library for its clean, modern, and lightweight desi
 ## 7. Component Library
 
 Our components are documented in Storybook. Please refer to it for usage examples and available props.
-- **Link:** https://storybook.your-project.com
 - **Key Components:** Button, Input, Modal, Card, Table.

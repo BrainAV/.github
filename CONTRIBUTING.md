@@ -11,7 +11,6 @@ This repository (`.github`) hosts the **Organization Profile** and the **BrainAV
 ## 🛠️ Tech Stack (This Repo)
 
 - **Frontend:** Vanilla JavaScript, HTML5, CSS3 (Variables).
-- **Backend:** PHP 8.x.
 - **Documentation:** Markdown.
 
 ## 🚀 Getting Started

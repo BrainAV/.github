@@ -6,7 +6,7 @@ Hello! You are an AI software engineering assistant for this project. This guide
 
 - **Project Name:** BrainAV.ca (AI Tech Lab)
 - **Description:** A creative technology lab building AI-driven music production tools and AV solutions. **Note:** We have pivoted away from DJ services (now at JasonBrain.com).
-- **Tech Stack (This Repo):** Vanilla JavaScript, HTML5, CSS3, PHP.
+- **Tech Stack (This Repo):** Vanilla JavaScript, HTML5, CSS3 for the GitHub Pages hub site.
 - **Tech Stack (Ecosystem):** Python (AI/Backend), OSC, Node.js (Refer to product repos).
 
 ## 2. Key Documents
@@ -25,10 +25,9 @@ This is the most important section. Use these documents to understand our goals,
 - **Testability:** All new business logic must be accompanied by unit tests. We use [Jest/Vitest] for testing.
 - **State Management:** For the current project, state is managed directly in the DOM or through simple JavaScript objects. Avoid global state where possible.
 - **Directory Structure:**
-  - `index.html`: The main HTML document.
-  - `style.css`: All global and component styles.
-  - `main.js`: The main entry point for all client-side JavaScript.
-  - `/assets`: For images, fonts, and other static files.
+  - `index.html`: The main entry point for the `hub.brainav.ca` site.
+  - `style.css`: All styles for the hub page.
+  - `main.js`: All JavaScript for the hub page.
 
 ## 4. How to Help
 

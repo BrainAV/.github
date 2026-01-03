@@ -10,7 +10,7 @@ PERSONA.md
 
 <TECH_STACK>
 Refer to `.github/CONTRIBUTING.md`.
-**This Repo**: HTML/CSS/JS, PHP.
+**This Repo**: HTML5, CSS3, Vanilla JS (GitHub Pages).
 **Ecosystem**: Python, OSC, AI Models.
 </TECH_STACK>
 

@@ -8,7 +8,7 @@ This file is for temporary notes, plans, and brainstorming. It is not part of th
 **Repositories**:
 *   `.github`: Special organization repo, hosts the website and base setup.
     *   **Structure**:
-        *   `public/`: Web root (`index.php`, `style.css`, `main.js`).
+        *   `index.html`, `style.css`, `main.js`: Root files for `hub.brainav.ca` GitHub Pages site.
         *   `.github/`: Documentation and standards.
         *   `.gemini/`: AI Context and scratchpad.
 *   `The-DJ-Brain`: Performance Agent (Planning).

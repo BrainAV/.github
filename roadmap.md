@@ -1,6 +1,6 @@
-# Project Roadmap: BrainAV Tech Lab
+# Project Roadmap: BrainAV Organization
 
-This document outlines the strategic pivot of BrainAV from a service-based agency to a product-focused AI & Technology Lab.
+This document tracks the high-level goals of the BrainAV organization and the specific maintenance tasks for this repository (Profile & Hub).
 
 ## 🎯 Strategic Vision
 
@@ -12,68 +12,43 @@ This document outlines the strategic pivot of BrainAV from a service-based agenc
 
 ---
 
-## 🔄 Phase 0: The Pivot (Immediate)
+## 🛠️ This Repository: Hub & Profile
 
-- [x] **Epic: Brand & Web Migration**
-  - [x] **Rebrand `BrainAV.ca`:** Update landing page to showcase "AI Tech Lab" and "AV Tools".
-  - [x] **Service Offloading:** Remove booking forms and wedding DJ content.
-  - [x] **Redirect Traffic:** Add clear call-to-actions directing service inquiries to JasonBrain.com.
-  - [x] **Content Consolidation:** Link to the existing Tech Blog and Music Blog on JasonBrain.com.
-  - [ ] **Deployment:**
-    - [x] Configure DNS for `brainav.ca` (cPanel) and subdomain (GitHub Pages).
-    - [x] Upload `public/` folder to cPanel `public_html`.
-    - [ ] **Database:** Plan database schema for user accounts/settings (Align with JasonBrain CMS).
-  - [x] **Epic: AI Agent Readiness**
-    - [x] Maintain `prompt.md` (now `.gemini/PROMPT.md`) for autonomous agent context.
-    - [x] Establish structured release notes workflow in `releases/` folder.
+*Focus: Maintaining the public face of the organization on GitHub.*
 
-## 🧠 Phase 1: AI Co-Producer (The Foundation)
+- [x] **Repo Restructuring**
+  - [x] Pivot repo to serve only `hub.brainav.ca` and Org Profile.
+  - [x] Remove legacy PHP/Main Site source (moved to private repo).
+  - [x] Cleanup `roadmap.md` to reflect new scope.
+- [ ] **Profile & Documentation**
+  - [x] Maintain Organization Profile (`profile/README.md`).
+  - [x] Maintain Repository README (`README.md`).
+  - [x] Refine `.gemini/PROMPT.md` and `PROMPT_GUIDE.md` for improved agent workflow.
+- [ ] **Hub Website (`index.html`)**
+  - [x] Update product cards as new repositories are made public.
+  - [x] Ensure design consistency with `DESIGN_GUIDE.md`.
 
+---
+
+## 🌍 Ecosystem Overview (High Level)
+
+*Detailed development tasks are tracked in individual product repositories.*
+
+### 🧠 Phase 1: AI Co-Producer
 *Focus: Bridging LLMs with DAWs (Ableton Live)*
+- [ ] **Core:** Python OSC Server & LLM Backend.
+- [ ] **Features:** Text-to-MIDI, Sound Design Recipes.
 
-- [ ] **Epic: Core Architecture**
-  - [ ] **Repository Setup:** Initialize separate `ai-coproducer` repository for Python/OSC logic.
-  - [ ] **Bridge Prototype:** Develop initial Python OSC server.
-  - [ ] **Integration:** Implement OSC connectivity using `python-osc`.
-  - [ ] **LLM Backend:** Integrate pluggable backend (Gemini, Claude, Ollama).
-- [ ] **Epic: Generative Capabilities**
-  - [ ] **Text-to-MIDI:** Generate melodies, chords, and drum patterns from prompts.
-  - [ ] **Sound Design Recipes:** AI guidance for synth parameter adjustments.
-  - [ ] **Arrangement Scaffolding:** AI-assisted song structure mapping (Intro, Verse, Drop).
-
-## 📱 Phase 2: The Controller & Hardware
-
+### 📱 Phase 2: Hardware & Visuals
 *Focus: Interfaces and dedicated hardware*
+- [x] **Visuals:** Audio-Visualizer (Prototype Released).
+- [ ] **Infrastructure:** DigiPi Integration with Flight Deck.
+- [ ] **Embedded:** Raspberry Pi optimization.
 
-- [ ] **Epic: Mobile Integration**
-  - [ ] Develop Android "Voice-to-Command" app for hands-free studio control.
-  - [ ] Implement context-aware suggestions based on project state.
-- [ ] **Epic: Embedded Systems**
-  - [ ] Build and release disk images for Raspberry Pi 5 & Jetson Nano.
-  - [ ] Optimize local LLM inference for edge devices.
-- [x] **Epic: Visuals (Audio-Visualizer)**
-  - [x] **Repository Setup:** Initialize `Audio-Visualizer` repository.
-  - [x] **Prototype:** Create basic audio-reactive sketch.
-- [ ] **Epic: Infrastructure (DigiPi)**
-  - [ ] **Integration:** Integrate DigiPi with the Flight Deck framework.
-
-## 🛠 Phase 3: Desktop & VST Integration
-
-- [ ] **Epic: Seamless Workflow**
-  - [ ] Develop VST3 Wrapper for in-DAW control (minimizing context switching).
-  - [ ] Create advanced visualization for AI "thought process" inside the DAW.
-
-## 🏗 Phase 4: Platform Unification (JasonBrain CMS)
-
-*Focus: Centralizing development under the custom CMS workspace.*
-
-- [ ] **Epic: Workspace Integration**
-  - [ ] **Migration:** Prepare BrainAV repo for integration into `jasonbra1n/workspace/`.
-  - [ ] **Standardization:** Align `.github` workflows and coding standards with the master CMS.
-- [ ] **Epic: Shared Core (PHP)**
-  - [ ] **Router:** Adopt the CMS routing architecture.
-  - [ ] **Auth:** Implement unified user authentication (SSO).
-  - [ ] **Components:** Refactor UI to use shared CMS component library.
+### 🏗 Phase 3: Platform Unification
+*Focus: Centralizing development under the JasonBrain CMS workspace.*
+- [ ] **Integration:** Align `.github` workflows with master CMS.
+- [ ] **Auth:** Unified user authentication across ecosystem.
 
 ---
 

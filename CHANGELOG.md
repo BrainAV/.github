@@ -17,6 +17,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Docs:** Removed legacy PHP references from `CONTRIBUTING.md` and `readme.md`. Removed placeholder links from `DESIGN_GUIDE.md`.
 - **Design:** Updated `DESIGN_GUIDE.md` to distinguish between marketing and app typography scales.
 - **Frontend:** Integrated Google Fonts (Inter) in `index.html` and `style.css` to align with design system.
+- **Content:** Broadened ecosystem description from "AI agents" to "creative tools" in `profile/README.md`, `roadmap.md`, and `index.html`.
+- **Frontend:** Reordered product cards in `index.html` to match the strategic priority (AI Co-Producer first).
 
 ### Removed
 - **Backend:** Removed PHP dependency and `public/` directory structure as the main site is no longer hosted here.

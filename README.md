@@ -4,7 +4,7 @@ Welcome to **BrainAV**, a creative technology lab dedicated to building the next
 
 > **📢 NOTICE:** BrainAV has pivoted!
 >
-> We have transitioned from a DJ service provider to a dedicated **AI Product Lab**.
+> We have transitioned from a DJ service provider to a **Creative Technology Lab**.
 >
 > 🎧 **Looking for DJ Services?**
 > For professional DJ services, weddings, and event entertainment, please visit **[JasonBrain.com](https://jasonbrain.com)**.

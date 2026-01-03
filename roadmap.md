@@ -5,7 +5,7 @@ This document tracks the high-level goals of the BrainAV organization and the sp
 ## 🎯 Strategic Vision
 
 - **From Services to Products:** Transitioning from live event services to developing tools for creators.
-- **Product Ecosystem:** Developing two core AI agents:
+- **Product Ecosystem:** Developing core creative tools:
   - **"The DJ Brain":** AI DJ application for mixing and performance (playing music).
   - **"AI Co-Producer":** AI Executive Producer for DAWs (making music).
 - **Open & Modular:** Prioritizing open-source protocols (OSC) and local LLM support over proprietary lock-ins.
@@ -24,7 +24,7 @@ This document tracks the high-level goals of the BrainAV organization and the sp
   - [x] Maintain Organization Profile (`profile/README.md`).
   - [x] Maintain Repository README (`README.md`).
   - [x] Refine `.gemini/PROMPT.md` and `PROMPT_GUIDE.md` for improved agent workflow.
-- [ ] **Hub Website (`index.html`)**
+- [x] **Hub Website (`index.html`)**
   - [x] Update product cards as new repositories are made public.
   - [x] Ensure design consistency with `DESIGN_GUIDE.md`.
 

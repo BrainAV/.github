@@ -1,17 +1,17 @@
-# BrainAV: AI Creative Ecosystem
+# BrainAV: Creative Technology Ecosystem
 
 **BrainAV** is a creative technology lab building intelligent tools for the future of music.
 
 > **📢 NOTICE:** BrainAV has pivoted!
 >
-> We have transitioned from a DJ service provider to a dedicated **AI Product Lab**.
+> We have transitioned from a DJ service provider to a **Creative Technology Lab**.
 >
 > 🎧 **Looking for DJ Services?**
 > For professional DJ services, weddings, and event entertainment, please visit **[JasonBrain.com](https://jasonbrain.com)**.
 
 ## 🌌 The Ecosystem
 
-We are developing a suite of distinct AI agents that cover the full spectrum of music:
+We are developing a suite of distinct creative tools that cover the full spectrum of music:
 
 ### 1. AI Co-Producer (Creation)
 **"The AI that makes music."**

@@ -23,6 +23,11 @@ We are building **BrainAV**, an ecosystem of intelligent tools that act as colla
 
 ## 🚀 Key Projects
 
+### Core CMS
+The AI-native, lightweight Content Management System that powers `BrainAV.ca`.
+- **Links**: [View Showcase](https://core-cms.brainav.ca/) | [Explore Repo](https://github.com/BrainAV/core-cms)
+
+
 ### Flight Deck
 **The Central Command Center.**
 A custom interface for real-time performance, system management, and AI tool interaction.
@@ -31,6 +36,10 @@ A custom interface for real-time performance, system management, and AI tool int
 ### Visuals (Add-on)
 An add-on for Flight Deck providing AI-driven visual synthesis and live performance synchronization.
 - **Links**: [View Demo](https://brainav.github.io/Audio-Visualizer/) | [Explore Repo](https://github.com/BrainAV/Audio-Visualizer)
+
+### Radio Stream Player
+An open-source web player for streaming online radio stations.
+- **Links**: [Listen Live](https://radio.djay.ca/) | [Explore Repo](https://github.com/BrainAV/Radio-Stream-Player)
 
 ## 🛠 Tech Stack
 

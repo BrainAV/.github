@@ -11,6 +11,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Content:** Scaled back product showcase to focus exclusively on "Flight Deck" and "Visuals".
 - **Website:** Removed "AI Co-Producer", "The DJ Brain", and "DigiPi" from the landing page.
 
+### Added
+- **Ecosystem:** Added "Radio Stream Player" to project documentation and profile.
+- **Ecosystem:** Added "Core CMS" project to documentation, profile, and roadmap.
+- **Hub:** Added product cards for "Core CMS" and "Radio Stream Player" to `index.html`.
+
 ## [0.2.4] - 2026-01-03
 
 ### Changed

@@ -42,13 +42,15 @@ This document tracks the high-level goals of the BrainAV organization and the sp
 ### 📱 Phase 2: Hardware & Visuals
 *Focus: Interfaces and dedicated hardware*
 - [x] **Visuals:** Audio-Visualizer (Prototype Released).
+- [x] **Streaming:** Radio Stream Player (Live).
 - [ ] **Infrastructure:** DigiPi Integration with Flight Deck.
 - [ ] **Embedded:** Raspberry Pi optimization.
 
 ### 🏗 Phase 3: Platform Unification
-*Focus: Centralizing development under the JasonBrain CMS workspace.*
-- [ ] **Integration:** Align `.github` workflows with master CMS.
-- [ ] **Auth:** Unified user authentication across ecosystem.
+*Focus: Centralizing the web platform with the Core CMS.*
+- [x] **CMS Backend:** `core-cms` developed and powers `brainav.ca`.
+- [ ] **Integration:** Align product frontends with CMS authentication and APIs.
+- [ ] **Auth:** Unified user authentication via Core CMS.
 
 ---
 

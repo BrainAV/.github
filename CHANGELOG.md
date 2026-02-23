@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Ecosystem:** Added "Radio Stream Player" to project documentation and profile.
 - **Ecosystem:** Added "Core CMS" project to documentation, profile, and roadmap.
 - **Hub:** Added product cards for "Core CMS" and "Radio Stream Player" to `index.html`.
+- **Navigation:** Added link to main site (`brainav.ca`) in Navbar and Footer of `index.html`.
 
 ## [0.2.4] - 2026-01-03
 

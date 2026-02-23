@@ -16,8 +16,9 @@ We are developing a suite of distinct creative tools:
 ### 1. Core CMS (Platform)
 **"The foundation."**
 An AI-native, lightweight Content Management System that powers BrainAV.ca and serves as the backbone for future integrated web apps.
-- View Showcase
-- Explore Repo
+- [View Showcase](https://core-cms.brainav.ca/)
+- [Explore Repo](https://github.com/BrainAV/core-cms)
+
 
 ### 2. Flight Deck (Control)
 **"The interface that connects it all."**

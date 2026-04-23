@@ -1,65 +1,56 @@
-# BrainAV - AI Products & Tech Lab
+# 🧠 BrainAV - Creative Technology Ecosystem
 
-Welcome to **BrainAV**, a creative technology lab dedicated to building the next generation of AI music tools and AV solutions.
+Welcome to the **BrainAV** GitHub Organization Hub. We are a creative technology lab dedicated to building intelligent tools for the future of music, professional performance, and modular web platforms.
 
-> **📢 NOTICE:** BrainAV has pivoted!
->
-> We have transitioned from a DJ service provider to a **Creative Technology Lab**.
->
-> 🎧 **Looking for DJ Services?**
-> For professional DJ services, weddings, and event entertainment, please visit **[JasonBrain.com](https://jasonbrain.com)**.
+> [!IMPORTANT]
+> **Pivoted for the Future**: BrainAV has transitioned from a DJ service provider to a focused **Creative Technology Lab**. For professional event entertainment services by Jason Brain, please visit [JasonBrain.com](https://jasonbrain.com).
 
-## 📂 About this Repository
+---
 
-This repository (`.github`) serves two purposes:
-1.  **Organization Profile**: Contains the public profile README for the BrainAV organization.
-2.  **Website Source**: Hosts the source code for the BrainAV web presence.
-    - **Main Site (`brainav.ca`)**: The source for our main website is now in a private repository.
-    - **Hub (`hub.brainav.ca`)**: This repository hosts the source for our GitHub Pages hub site (`index.html`).
+## 📂 Repository Overview
 
-## 🧠 The Mission
+This repository (`.github`) serves as the central hub for the BrainAV organization:
+- **[Hub (hub.brainav.ca)](https://hub.brainav.ca)**: The official entry point to our ecosystem.
+- **Organization Profile**: Hosts the global README for our organization.
 
-We are building **BrainAV**, an ecosystem of intelligent tools that act as collaborative partners for musicians, producers, and visual artists. Our focus is on bridging the gap between Large Language Models (LLMs) and professional creative software.
+---
 
-## 🚀 Key Projects
+## 🚀 Active Ecosystem Projects
 
-### Core CMS
-The AI-native, lightweight Content Management System that powers `BrainAV.ca`.
-- **Links**: [View Showcase](https://core-cms.brainav.ca/) | [Explore Repo](https://github.com/BrainAV/core-cms)
+### [Core CMS](https://github.com/BrainAV/core-cms)
+An AI-native, lightweight Content Management System built for speed and modularity.
+- **Milestones**: v0.4.x (Active stabilization).
+- **Tech**: PHP 8.3, MySQL (PDO), Editor.js.
 
+### [Flight Deck](https://github.com/BrainAV/FlightDeck-Framework)
+The central command center for real-time performance and system management.
+- **Focus**: OSC/MIDI integration and AI-assisted workflows.
 
-### Flight Deck
-**The Central Command Center.**
-A custom interface for real-time performance, system management, and AI tool interaction.
-- **Links**: [View Prototypes](https://brainav.github.io/FlightDeck-Framework/) | [Explore Framework](https://github.com/BrainAV/FlightDeck-Framework)
+### [Visuals](https://github.com/BrainAV/Audio-Visualizer)
+AI-driven visual synthesis and live performance synchronization.
 
-### Visuals (Add-on)
-An add-on for Flight Deck providing AI-driven visual synthesis and live performance synchronization.
-- **Links**: [View Demo](https://brainav.github.io/Audio-Visualizer/) | [Explore Repo](https://github.com/BrainAV/Audio-Visualizer)
+### [Radio Stream Player](https://github.com/BrainAV/Radio-Stream-Player)
+Modular web player for online radio, optimized for the Core CMS ecosystem.
 
-### Radio Stream Player
-An open-source web player for streaming online radio stations.
-- **Links**: [Listen Live](https://radio.djay.ca/) | [Explore Repo](https://github.com/BrainAV/Radio-Stream-Player)
+---
 
-## 🛠 Tech Stack
+## 🛠 Our Technology Stack
 
-### 🌐 This Repository (Website & Profile)
-- **Frontend**: HTML5, CSS3 (Variables), Vanilla JavaScript.
-- **Purpose**: Serves as the organization's profile and the `hub.brainav.ca` GitHub Pages site.
+We specialize in building lightweight, scalable solutions that bridge the gap between creative art and intelligent systems.
 
-### 🧠 BrainAV Ecosystem (Product Labs)
-*These technologies are used in our product repositories (e.g., `The-DJ-Brain`, `AI-Co-Producer`).*
-- **Core**: Python 3.10+, Node.js, Open Sound Control (OSC).
-- **AI/ML**: Ollama (Local), Gemini/Claude (Cloud).
-- **Hardware**: Raspberry Pi 5, NVIDIA Jetson.
+- **Web Architecture**: PHP 8.3+, MySQL (MariaDB) via PDO, Vanilla CSS (Apex UI).
+- **AI & Logic**: Python 3.10+, Gemini/Claude Integration, Local LLMs (Ollama).
+- **Protocols & Hardware**: OSC, MIDI, Ableton Live API, Raspberry Pi 5.
+- **Hosting**: cPanel Optimized Deployment.
 
-## 🔗 Resources
+---
 
+## 🔗 Connect With Us
+
+- **Main Website**: [BrainAV.ca](https://brainav.ca)
 - **Tech & Music Blog**: [JasonBrain.com/blog](https://jasonbrain.com/blog)
-- **Organization Website**: [BrainAV.ca](https://brainav.ca)
+- **Contact**: [Support & Development](https://brainav.ca/contact)
 
-## License
+---
 
-© 2026 BrainAV | MIT License
-
-This organization maintains open-source projects. For commercial partnerships regarding our AI technology, please reach out.
+© 2026 BrainAV | [MIT License](LICENSE)

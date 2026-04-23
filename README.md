@@ -17,7 +17,7 @@ This repository (`.github`) serves as the central hub for the BrainAV organizati
 
 ## 🚀 Active Ecosystem Projects
 
-### [Core CMS](https://github.com/BrainAV/core-cms)
+### [Core CMS](https://core-cms.brainav.ca/)
 An AI-native, lightweight Content Management System built for speed and modularity.
 - **Milestones**: v0.4.x (Active stabilization).
 - **Tech**: PHP 8.3, MySQL (PDO), Editor.js.
@@ -29,7 +29,7 @@ The central command center for real-time performance and system management.
 ### [Visuals](https://github.com/BrainAV/Audio-Visualizer)
 AI-driven visual synthesis and live performance synchronization.
 
-### [Radio Stream Player](https://github.com/BrainAV/Radio-Stream-Player)
+### [Radio Stream Player](https://djay.ca/products/radio-player)
 Modular web player for online radio, optimized for the Core CMS ecosystem.
 
 ---

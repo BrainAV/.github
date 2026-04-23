@@ -12,7 +12,7 @@
 
 We develop distinct tools that empower creators to manage, perform, and scale their digital presence.
 
-#### 🛠️ [Core CMS](https://github.com/BrainAV/core-cms)
+#### 🛠️ [Core CMS](https://core-cms.brainav.ca/)
 **The Foundation.** An AI-native, lightweight PHP/MySQL framework that powers our web presence and provides a secure, modular backbone for all future tools.
 
 #### 🎛️ [Flight Deck](https://github.com/BrainAV/FlightDeck-Framework)
@@ -21,7 +21,7 @@ We develop distinct tools that empower creators to manage, perform, and scale th
 #### 🎨 [Visuals](https://github.com/BrainAV/Audio-Visualizer)
 **The AI Lens.** Audio-reactive visual synthesis that synchronizes performance data with generative art engines.
 
-#### 📻 [Radio Player](https://github.com/BrainAV/Radio-Stream-Player)
+#### 📻 [Radio Player](https://djay.ca/products/radio-player)
 **The Signal.** A high-performance web streaming player designed as a drop-in plugin for the Core CMS ecosystem.
 
 ---

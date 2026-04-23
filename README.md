@@ -48,7 +48,7 @@ We specialize in building lightweight, scalable solutions that bridge the gap be
 ## 🔗 Connect With Us
 
 - **Main Website**: [BrainAV.ca](https://brainav.ca)
-- **Tech & Music Blog**: [JasonBrain.com/blog](https://jasonbrain.com/blog)
+- **Jason Brain**: [jasonbrain.com](https://jasonbrain.com)
 - **Contact**: [Support & Development](https://brainav.ca/contact)
 
 ---

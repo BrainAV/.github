@@ -38,7 +38,7 @@ We develop distinct tools that empower creators to manage, perform, and scale th
 ### 🔗 Explore
 
 - 🌐 [Official Website (BrainAV.ca)](https://brainav.ca)
-- 📰 [Tech & Music Blog](https://jasonbrain.com/blog)
+- **Jason Brain (jasonbrain.com):** [jasonbrain.com](https://jasonbrain.com)
 - 🚀 [Ecosystem Hub](https://hub.brainav.ca)
 
 ---
